@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>n0ttytalks</title>
+  <link href="http://localhost:4000/atom.xml" rel="self" />
+  <link href="http://localhost:4000/"/>
+  <updated>2017-07-01T04:56:13+05:30</updated>
+  <id>http://localhost:4000</id>
+  <author>
+    <name>n0ttytalks</name>
+  </author>
+  
+    <entry>
+      <title>Structured Programming vs Object Oriented Programming</title>
+      <link href="/hacking/structured-vs-oops/" />
+      <updated>2016-08-27T22:50:00+05:30</updated>
+      <id>/hacking/structured-vs-oops</id>
+      <content type="html"></content>
+    </entry>
+  
+    <entry>
+      <title>Choosing your Linux</title>
+      <link href="/hacking/Choosing-your-linux/" />
+      <updated>2016-08-27T22:50:00+05:30</updated>
+      <id>/hacking/Choosing-your-linux</id>
+      <content type="html"></content>
+    </entry>
+  
+    <entry>
+      <title>Aum :: Who am I?</title>
+      <link href="/dharma/Aum/" />
+      <updated>2016-08-27T04:20:00+05:30</updated>
+      <id>/dharma/Aum</id>
+      <content type="html"></content>
+    </entry>
+  
+</feed>

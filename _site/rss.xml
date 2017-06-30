@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>n0ttytalks - Articles</title>
+    <description>n0tty</description>
+    <link>
+    http://localhost:4000</link>
+    
+      <item>
+        <title>Structured Programming vs Object Oriented Programming</title>
+        
+          <description></description>
+        
+        <pubDate>Sat, 27 Aug 2016 22:50:00 +0530</pubDate>
+        <link>/hacking/structured-vs-oops/</link>
+        <guid isPermaLink="true">http://localhost:4000/hacking/structured-vs-oops/</guid>
+      </item>
+    
+      <item>
+        <title>Choosing your Linux</title>
+        
+          <description></description>
+        
+        <pubDate>Sat, 27 Aug 2016 22:50:00 +0530</pubDate>
+        <link>/hacking/Choosing-your-linux/</link>
+        <guid isPermaLink="true">http://localhost:4000/hacking/Choosing-your-linux/</guid>
+      </item>
+    
+      <item>
+        <title>Aum :: Who am I?</title>
+        
+          <description></description>
+        
+        <pubDate>Sat, 27 Aug 2016 04:20:00 +0530</pubDate>
+        <link>/dharma/Aum/</link>
+        <guid isPermaLink="true">http://localhost:4000/dharma/Aum/</guid>
+      </item>
+    
+  </channel>
+</rss>
