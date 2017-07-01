@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Hack"
-permalink: /hacking/
+permalink: /oldblog/hacking/
 ---
 
 <ul class="posts">

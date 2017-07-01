@@ -3,10 +3,10 @@
   <channel>
     <title>n0tty</title>
     <description>n0tty</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 01 Jul 2017 04:56:13 +0530</pubDate>
-    <lastBuildDate>Sat, 01 Jul 2017 04:56:13 +0530</lastBuildDate>
+    <link>http://localhost:4000/oldblog/</link>
+    <atom:link href="http://localhost:4000/oldblog/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 01 Jul 2017 05:43:34 +0530</pubDate>
+    <lastBuildDate>Sat, 01 Jul 2017 05:43:34 +0530</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
     
       <item>
@@ -17,8 +17,8 @@
 
 </description>
         <pubDate>Sat, 27 Aug 2016 22:50:00 +0530</pubDate>
-        <link>http://localhost:4000/hacking/structured-vs-oops/</link>
-        <guid isPermaLink="true">http://localhost:4000/hacking/structured-vs-oops/</guid>
+        <link>http://localhost:4000/oldblog/hacking/structured-vs-oops/</link>
+        <guid isPermaLink="true">http://localhost:4000/oldblog/hacking/structured-vs-oops/</guid>
         
         <category>stuctured programming</category>
         
@@ -37,8 +37,8 @@
 
 </description>
         <pubDate>Sat, 27 Aug 2016 22:50:00 +0530</pubDate>
-        <link>http://localhost:4000/hacking/Choosing-your-linux/</link>
-        <guid isPermaLink="true">http://localhost:4000/hacking/Choosing-your-linux/</guid>
+        <link>http://localhost:4000/oldblog/hacking/Choosing-your-linux/</link>
+        <guid isPermaLink="true">http://localhost:4000/oldblog/hacking/Choosing-your-linux/</guid>
         
         <category>linux</category>
         
@@ -157,8 +157,8 @@ With this, I close about AUM and realizing a Self with a final note. Present is 
 
 </description>
         <pubDate>Sat, 27 Aug 2016 04:20:00 +0530</pubDate>
-        <link>http://localhost:4000/dharma/Aum/</link>
-        <guid isPermaLink="true">http://localhost:4000/dharma/Aum/</guid>
+        <link>http://localhost:4000/oldblog/dharma/Aum/</link>
+        <guid isPermaLink="true">http://localhost:4000/oldblog/dharma/Aum/</guid>
         
         <category>aum</category>
         
